@@ -1,4 +1,4 @@
-# discord.js
+# Discord.js
 
 discord.js is a powerful Node.js module that allows you to easily interact with the Discord API.
 
@@ -41,3 +41,8 @@ Steps to create bot :
   - [ ] Adding reaction to message `messageReactionAdd`
   - [ ] Removing message reaction `messageReactionRemove`
 - [ ] Login with DISCORD_BOT_TOKEN
+
+
+
+##### Made with ♥ by <a href="https://github.com/punitkmryh">punitDev</a>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/punitkmryh)
