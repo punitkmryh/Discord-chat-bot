@@ -37,7 +37,6 @@ Steps to create bot :
       - [ ] else if (CMD_NAME === 'announce')
   - [ ] `message`
     - [ ] if `author is bot` return
-    - [ ] if 
   - [ ] Adding reaction to message `messageReactionAdd`
   - [ ] Removing message reaction `messageReactionRemove`
 - [ ] Login with DISCORD_BOT_TOKEN
